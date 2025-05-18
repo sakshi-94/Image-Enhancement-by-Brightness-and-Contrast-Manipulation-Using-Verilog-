@@ -1,7 +1,5 @@
 # Image Enhancement by Brightness and Contrast Manipulation using Verilog
 
-![Project Banner](https://via.placeholder.com/800x200?text=FPGA+Image+Enhancement)
-
 ## 📌 Overview
 This project implements real-time image enhancement techniques (brightness adjustment, contrast manipulation, thresholding, and inversion) using Verilog HDL for FPGA platforms. The system processes bitmap images in hexadecimal format and outputs enhanced images with improved visual quality, targeting applications in surveillance, smart cities, and industrial inspection.
 
